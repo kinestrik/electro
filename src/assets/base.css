@@ -1,0 +1,20 @@
+#app {
+  min-height: 100vh;  /* Заполняет всю высоту экрана */
+  margin-bottom: 0;
+  padding-bottom: 0;
+  min-height: 800px;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+p, h1, h2, h3, h4, h5, h6 { 
+  font-family: "Rubik", sans-serif;
+  font-weight: 700;
+}
+:root {
+  --font-family: "Rubik", sans-serif;
+  --second-family: "Inter", sans-serif;
+  --color: #0502a7
+}
